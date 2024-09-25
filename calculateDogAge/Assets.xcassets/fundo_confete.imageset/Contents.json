@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "fundo_confete.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
