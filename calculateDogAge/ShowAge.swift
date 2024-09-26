@@ -39,7 +39,7 @@ class ShowAge: UIViewController {
     
     private lazy var ageDogLabel: UILabel = {
         let label = UILabel()
-        label.text = idade != nil ? "\(idade!)" : "Idade não disponível"
+        label.text = idade != nil ? "\(idade!) Anos" : "Idade não disponível"
         label.font = UIFont.systemFont(ofSize: 40, weight: .bold)
         label.translatesAutoresizingMaskIntoConstraints = false
         
